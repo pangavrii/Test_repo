@@ -1,4 +1,3 @@
 # Test_repo
 Testing
-**this is a test**
-![test image][att.aqpMlXOkxPsT7nxBZrUR0IdxM0I-BzABefXXBcaSyOA.jpeg]
+**this is ![This is a test image][Test_repo/att.aqpMlXOkxPsT7nxBZrUR0IdxM0I-BzABefXXBcaSyOA.jpeg]
