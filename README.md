@@ -1,6 +1,6 @@
 # Test_repo
-Testing \n
-**this is a test**\n
+Testing /n
+**this is a test**/n
 *test*
 
 ![This is a test image]
